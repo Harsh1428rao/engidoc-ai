@@ -1,0 +1,10 @@
+.venv
+.venv313
+__pycache__
+.pytest_cache
+.git
+.env
+*.pyc
+.DS_Store
+data
+tests
